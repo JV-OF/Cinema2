@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  *
- * @author joao
+ * Classe clinete
  */
 public class Clientes extends Pessoa{
     //Atributos para clientes do sistema
